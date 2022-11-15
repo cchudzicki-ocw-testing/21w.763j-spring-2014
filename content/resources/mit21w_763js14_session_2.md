@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/52fb19588ddf931de8d9927810ca3b61_MIT21W_763JS14_Session_1.pdf
+file: /media/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/15ff09090ae5af1b1cbcc2362acda997_MIT21W_763JS14_Session_2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -11,6 +11,6 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: ee843043-e02c-7d2c-64db-305d3079a948
 resourcetype: Document
-title: 'Session 1: What is Transmedia?'
-uid: 52fb1958-8ddf-931d-e8d9-927810ca3b61
+title: 'Session 2: Science Fictions - The Genre and the Media'
+uid: 15ff0909-0ae5-af1b-1cbc-c2362acda997
 ---
